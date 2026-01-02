@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CarColor 조색</string>
+    <string name="title_activity_main">CarColor 조색</string>
+    <string name="package_name">com.carcolor.picker</string>
+    <string name="custom_url_scheme">com.carcolor.picker</string>
+</resources>
