@@ -266,7 +266,8 @@ body {
 
 .live-color-text {
   font-family: var(--font-mono);
-  font-size: 0.875rem;
+  font-size: 0.8rem;
+  white-space: nowrap;
   color: white;
 }
 
