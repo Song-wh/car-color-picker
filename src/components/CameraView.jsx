@@ -218,3 +218,5 @@ const CameraView = ({ onColorCapture, onFrameCapture, isAnalyzing }) => {
 
 export default CameraView;
 
+
+

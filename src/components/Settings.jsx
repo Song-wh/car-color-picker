@@ -122,3 +122,5 @@ const Settings = ({ isOpen, onClose }) => {
 
 export default Settings;
 
+
+

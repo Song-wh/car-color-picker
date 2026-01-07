@@ -97,3 +97,5 @@ const CarInfo = ({ carData, isLoading, error }) => {
 
 export default CarInfo;
 
+
+

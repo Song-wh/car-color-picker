@@ -165,3 +165,5 @@ export const getAverageColor = (imageData, x, y, size = 10) => {
   ];
 };
 
+
+

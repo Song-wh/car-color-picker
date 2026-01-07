@@ -127,3 +127,5 @@ const ColorResult = ({ rgb, capturedImage }) => {
 
 export default ColorResult;
 
+
+
